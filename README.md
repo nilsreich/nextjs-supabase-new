@@ -4,6 +4,8 @@ This example shows how to use Supabase Auth on the client and server in both [AP
 
 ## Deploy with Vercel
 
+test
+
 The Vercel deployment will guide you through creating a Supabase account and project. After installation of the Supabase integration, all relevant environment variables will be set up so that the project is usable immediately after deployment 🚀
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-supabase-auth-realtime-db&project-name=nextjs-with-supabase-auth&repository-name=nextjs-with-supabase-auth&integration-ids=oac_jUduyjQgOyzev1fjrW83NYOv)
